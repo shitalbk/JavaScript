@@ -1,5 +1,5 @@
     // Function constructor
-/*
+
 var john =  {
     name: 'John',
     yearOfBirth: 1994,
@@ -311,7 +311,7 @@ var ages = arrayCalc(years,calculateAge);
 var fullJapan = arrayCalc(ages,isFullAge.bind(this,20));
 
 console.log(fullJapan);
-*/
+
 
 prompt('Please select the correct answer (just type the number).');
 
